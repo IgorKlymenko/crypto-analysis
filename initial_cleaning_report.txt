@@ -1,0 +1,92 @@
+Initial Data Cleaning Report
+==========================
+
+
+Cleaning Report for BTC
+==================================================
+Found 1 missing values (0.02%) in column Price
+Found 1232 missing values (23.1%) in column Volume
+Found 1018 missing values (19.09%) in column Market_cap
+No invalid values found in Price, Volume or Market_cap
+Created price-only dataset with 5332 rows due to high missing values (NaN or 0) (23.61%)
+Created full dataset with 4074 rows after dropping missing values (NaN or 0)
+
+
+Cleaning Report for SOLANA
+==================================================
+No invalid values found in Price, Volume or Market_cap
+Dropped 0 rows with missing values (NaN or 0) (0.0%)
+
+
+Cleaning Report for Lido
+==================================================
+No invalid values found in Price, Volume or Market_cap
+Dropped 2 rows with missing values (NaN or 0) (0.13%)
+
+
+Cleaning Report for USDC
+==================================================
+No invalid values found in Price, Volume or Market_cap
+Dropped 18 rows with missing values (NaN or 0) (0.77%)
+
+
+Cleaning Report for RIPPLE
+==================================================
+Found 333 missing values (7.51%) in column Volume
+Found 220 missing values (4.96%) in column Market_cap
+No invalid values found in Price, Volume or Market_cap
+Created price-only dataset with 3918 rows due to high missing values (NaN or 0) (11.66%)
+Created full dataset with 3918 rows after dropping missing values (NaN or 0)
+
+
+Cleaning Report for ETH
+==================================================
+Found 1 missing values (0.03%) in column Price
+Found 1 missing values (0.03%) in column Volume
+Found 2 missing values (0.06%) in column Market_cap
+No invalid values found in Price, Volume or Market_cap
+Dropped 3 rows with missing values (NaN or 0) (0.09%)
+
+
+Cleaning Report for CARDANO
+==================================================
+Found 8 missing values (0.3%) in column Volume
+Found 25 missing values (0.92%) in column Market_cap
+No invalid values found in Price, Volume or Market_cap
+Dropped 25 rows with missing values (NaN or 0) (0.92%)
+
+
+Cleaning Report for TRON
+==================================================
+Found 16 missing values (0.59%) in column Volume
+Found 73 missing values (2.67%) in column Market_cap
+No invalid values found in Price, Volume or Market_cap
+Dropped 73 rows with missing values (NaN or 0) (2.67%)
+
+
+Cleaning Report for BNB
+==================================================
+Found 2 missing values (0.07%) in column Price
+Found 22 missing values (0.79%) in column Volume
+Found 75 missing values (2.69%) in column Market_cap
+No invalid values found in Price, Volume or Market_cap
+Dropped 75 rows with missing values (NaN or 0) (2.69%)
+
+
+Cleaning Report for DOGE
+==================================================
+Found 1 missing values (0.03%) in column Price
+Found 1 missing values (0.03%) in column Volume
+Found 2 missing values (0.05%) in column Market_cap
+No invalid values found in Price, Volume or Market_cap
+Dropped 2 rows with missing values (NaN or 0) (0.05%)
+
+
+Cleaning Report for Theter
+==================================================
+Found 23 missing values (0.63%) in column Price
+Found 23 missing values (0.63%) in column Volume
+Found 23 missing values (0.63%) in column Market_cap
+No invalid values found in Price, Volume or Market_cap
+Dropped 24 rows with missing values (NaN or 0) (0.66%)
+

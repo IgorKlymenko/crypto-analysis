@@ -1,0 +1,184 @@
+Basic Statistical Analysis
+==================================================
+
+Basic Statistics for BTC.csv:
+               Price        Volume    Market_cap
+mean    19377.550750  1.481855e+10  3.696085e+11
+median   8763.829496  8.293849e+09  1.559908e+11
+std     23580.210108  1.738626e+10  4.622059e+11
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.491530    0.999554
+Volume      0.491530  1.000000    0.477334
+Market_cap  0.999554  0.477334    1.000000
+
+
+==================================================
+
+Basic Statistics for SOLANA.csv:
+            Price        Volume    Market_cap
+mean    72.745752  1.323503e+09  2.894121e+10
+median  35.947639  9.188031e+08  1.177411e+10
+std     71.226315  1.583006e+09  3.118642e+10
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.693918    0.969148
+Volume      0.693918  1.000000    0.658814
+Market_cap  0.969148  0.658814    1.000000
+
+
+==================================================
+
+Basic Statistics for RIPPLE_price_only.csv:
+           Price
+mean    0.417288
+median  0.325747
+std     0.473684
+
+
+==================================================
+
+Basic Statistics for BTC_price_only.csv:
+               Price
+mean    14819.000219
+median   3849.344582
+std     22184.024828
+
+
+==================================================
+
+Basic Statistics for Lido.csv:
+              Price        Volume    Market_cap
+mean    2405.624797  3.378353e+07  1.281704e+10
+median  2289.997250  1.516820e+07  9.037491e+09
+std      879.658673  5.774960e+07  1.019010e+10
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.204550    0.429127
+Volume      0.204550  1.000000    0.417268
+Market_cap  0.429127  0.417268    1.000000
+
+
+==================================================
+
+Basic Statistics for USDC.csv:
+           Price        Volume    Market_cap
+mean    1.000871  1.844561e+09  2.293148e+10
+median  1.000179  1.062856e+09  2.614978e+10
+std     0.003739  2.976502e+09  1.903034e+10
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000 -0.021257   -0.121049
+Volume     -0.021257  1.000000    0.305281
+Market_cap -0.121049  0.305281    1.000000
+
+
+==================================================
+
+Basic Statistics for RIPPLE.csv:
+           Price        Volume    Market_cap
+mean    0.417288  1.747654e+09  2.005285e+10
+median  0.325747  7.326863e+08  1.369385e+10
+std     0.473684  3.403776e+09  2.494982e+10
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.429419    0.984899
+Volume      0.429419  1.000000    0.412517
+Market_cap  0.984899  0.412517    1.000000
+
+
+==================================================
+
+Basic Statistics for ETH.csv:
+              Price        Volume    Market_cap
+mean    1180.175870  9.172483e+09  1.387795e+11
+median   475.826879  6.413227e+09  4.915383e+10
+std     1246.392720  1.151895e+10  1.499347e+11
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.471320    0.999457
+Volume      0.471320  1.000000    0.464969
+Market_cap  0.999457  0.464969    1.000000
+
+
+==================================================
+
+Basic Statistics for CARDANO.csv:
+           Price        Volume    Market_cap
+mean    0.480709  8.302740e+08  1.591528e+10
+median  0.330806  2.412116e+08  1.112915e+10
+std     0.537385  1.613697e+09  1.744969e+10
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.658573    0.996548
+Volume      0.658573  1.000000    0.646030
+Market_cap  0.996548  0.646030    1.000000
+
+
+==================================================
+
+Basic Statistics for TRON.csv:
+           Price        Volume    Market_cap
+mean    0.067518  7.626019e+08  5.593635e+09
+median  0.061447  4.217434e+08  5.176266e+09
+std     0.053229  1.010501e+09  4.704019e+09
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.022874    0.990001
+Volume      0.022874  1.000000   -0.036658
+Market_cap  0.990001 -0.036658    1.000000
+
+
+==================================================
+
+Basic Statistics for BNB.csv:
+             Price        Volume    Market_cap
+mean    223.606516  8.255104e+08  3.512629e+10
+median  228.904211  3.698478e+08  3.571612e+10
+std     219.167445  1.400515e+09  3.456579e+10
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.379565    0.998475
+Volume      0.379565  1.000000    0.384184
+Market_cap  0.998475  0.384184    1.000000
+
+
+==================================================
+
+Basic Statistics for DOGE.csv:
+           Price        Volume    Market_cap
+mean    0.055805  6.933734e+08  7.664823e+09
+median  0.003055  7.305739e+07  3.605922e+08
+std     0.092493  2.533821e+09  1.276986e+10
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.600897    0.997834
+Volume      0.600897  1.000000    0.583418
+Market_cap  0.997834  0.583418    1.000000
+
+
+==================================================
+
+Basic Statistics for Theter.csv:
+           Price        Volume    Market_cap
+mean    1.000710  2.028694e+10  3.614761e+10
+median  1.000000  8.137695e+08  4.295027e+09
+std     0.014279  3.903697e+10  4.283271e+10
+
+Basic Correlation Matrix:
+               Price    Volume  Market_cap
+Price       1.000000  0.004006   -0.006719
+Volume      0.004006  1.000000    0.087040
+Market_cap -0.006719  0.087040    1.000000
+
+
